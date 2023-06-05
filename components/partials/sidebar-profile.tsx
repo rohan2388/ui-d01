@@ -1,5 +1,5 @@
 import Image from "next/image";
-export default function Profile() {
+export default function SidebarProfile() {
   return (
     <div className="flex gap-4 items-center">
       <Image

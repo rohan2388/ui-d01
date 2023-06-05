@@ -1,5 +1,5 @@
-import Profile from "@/components/profile";
-import SidebarItem from "@/components/sidebar-item";
+import Profile from "@/components/partials/sidebar-profile";
+import SidebarItem from "@/components/partials/sidebar-item";
 import GeneralIcon from "@/components/icons/sidebar/general";
 import PasswordIcon from "@/components/icons/sidebar/password";
 import InvitationsIcon from "@/components/icons/sidebar/invitations";

@@ -20,7 +20,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={clsx(poppins.variable, "font-sans")}>{children}</body>
+      <body
+        className={clsx(
+          poppins.variable,
+          "font-sans text-base text-base-content"
+        )}
+      >
+        {children}
+      </body>
     </html>
   );
 }

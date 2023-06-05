@@ -15,6 +15,7 @@ module.exports = {
         primary: {
           DEFAULT: "#1A194D",
           content: "#FFFFFF",
+          light: "#CBCBD9",
         },
         accent: {
           DEFAULT: "#EE4D38",
