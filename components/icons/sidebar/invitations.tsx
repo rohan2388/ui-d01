@@ -7,20 +7,20 @@ export default function Invitations() {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_3_105)">
+      <g clipPath="url(#clip0_3_105)">
         <path
           d="M25.3333 6.66666H6.66667C5.19391 6.66666 4 7.86057 4 9.33333V22.6667C4 24.1394 5.19391 25.3333 6.66667 25.3333H25.3333C26.8061 25.3333 28 24.1394 28 22.6667V9.33333C28 7.86057 26.8061 6.66666 25.3333 6.66666Z"
           stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
         <path
           d="M4 9.33334L16 17.3333L28 9.33334"
           stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
       </g>
       <defs>

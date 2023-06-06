@@ -1,6 +1,6 @@
 export default function OrderHistory() {
   return (
-    <div className="order-1">
+    <div className="order-1 @[800px]:order-0">
       <h3 className="text-primary text-md font-bold">Order History</h3>
       <p className="mt-1">Manage billing information and view receips</p>
       <div className="mt-12 -mx-4">
